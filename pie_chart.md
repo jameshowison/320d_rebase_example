@@ -1,1 +1,2 @@
 pie_chart_one
+pie_chart_two
